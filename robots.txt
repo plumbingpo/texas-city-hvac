@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://texascityhvacco.com/sitemap.xml
